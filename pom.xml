@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>SBI-Releases Nexus Repository</name>
-	      <url>http://3.9.191.192:8081/repository/SBI-Release/</url>
+	      <name>ICICI-Releases Nexus Repository</name>
+	      <url>http://3.9.191.192:8081/repository/ICICI-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>SBI-Snapshot Nexus Repository </name>
-	      <url>http://3.9.191.192:8081/repository/SBI-Snapshot/</url>
+	      <name>ICICI-Snapshot Nexus Repository </name>
+	      <url>http://3.9.191.192:8081/repository/ICICI-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
